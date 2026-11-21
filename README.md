@@ -7,11 +7,14 @@ command-line client of the [COCOA](https://cocoa-call.com) API.
 brew install clover-corporation/tap/cocoa
 ```
 
-Nothing is released yet.
-
 - Each release's archives and `SHA256SUMS` are attached to this repository's
   [releases](https://github.com/clover-corporation/homebrew-tap/releases), and the formula
   (`Formula/cocoa.rb`) names each archive's SHA-256. Only CLOVER publishes here.
 - Install by the full name above. A formula or tap of another name is not CLOVER's.
 - For questions about COCOA or the CLI, contact COCOA's support through
   [cocoa-call.com](https://cocoa-call.com). This repository takes no issues.
+
+## License
+
+Copyright (c) 2026 CLOVER Inc. All rights reserved. `cocoa` may be used only with COCOA, under the
+COCOA Terms of Service. See [LICENSE](LICENSE).
